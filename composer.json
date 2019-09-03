@@ -1,0 +1,29 @@
+{
+    "name": "baidu-searchbox/discuz-miniapp-plugin",
+    "type": "library",
+    "description": "小程序discuz插件，方便站长一键话生成app",
+    "require": {
+        "psr/log": "^1.0.2"
+    },
+    "authors": [
+        {
+            "name": "zhanglei25",
+            "email": "zhanglei25@baidu.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Baidu\\Searchbox\\Discuz_Miniapp_Plugin\\": "src/" }   
+    },
+    "config": {
+        "secure-http": false
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://composer.baidu.com"
+        },
+        {
+            "packagist": false
+        }
+    ]
+}

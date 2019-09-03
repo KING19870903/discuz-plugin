@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+    <item id="Title"><![CDATA[Discuz! Plugin]]></item>
+    <item id="Version"><![CDATA[X3.4]]></item>
+    <item id="Time"><![CDATA[2019-07-08 11:21]]></item>
+    <item id="From"><![CDATA[Discuz! Board ()]]></item>
+    <item id="Data">
+        <item id="plugin">
+            <item id="available"><![CDATA[1]]></item>
+            <item id="adminid"><![CDATA[1]]></item>
+            <item id="name"><![CDATA[百度小程序]]></item>
+            <item id="identifier"><![CDATA[baidusm_smartprogram]]></item>
+            <item id="description"><![CDATA[]]></item>
+            <item id="datatables"><![CDATA[]]></item>
+            <item id="directory"><![CDATA[baidusm_smartprogram/]]></item>
+            <item id="copyright"><![CDATA[百度在线网络技术（北京）有限公司]]></item>
+            <item id="modules"><![CDATA[a:0:{}]]></item>
+            <item id="version"><![CDATA[V1.0]]></item>
+        </item>
+        <item id="version"><![CDATA[X3.4]]></item>
+        <item id="installfile"><![CDATA[install.php]]></item>
+        <item id="uninstallfile"><![CDATA[uninstall.php]]></item>
+        <item id="var">
+            <item id="0">
+                <item id="displayorder"><![CDATA[0]]></item>
+                <item id="title"><![CDATA[APP Secret]]></item>
+                <item id="description"><![CDATA[]]></item>
+                <item id="variable"><![CDATA[secretkey]]></item>
+                <item id="type"><![CDATA[text]]></item>
+                <item id="value"><![CDATA[]]></item>
+                <item id="extra"><![CDATA[]]></item>
+            </item>
+            <item id="1">
+                <item id="displayorder"><![CDATA[1]]></item>
+                <item id="title"><![CDATA[论坛完整域名]]></item>
+                <item id="description"><![CDATA[]]></item>
+                <item id="variable"><![CDATA[domain]]></item>
+                <item id="type"><![CDATA[text]]></item>
+                <item id="value"><![CDATA[]]></item>
+                <item id="extra"><![CDATA[]]></item>
+            </item>
+        </item>
+    </item>
+</root>
